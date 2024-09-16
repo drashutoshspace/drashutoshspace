@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Ashutosh Mishra 👋
 
-<!--
-**iashutosh9119/iashutosh9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+I'm a Doctoral Researcher in Space Robotics at [Tohoku University](https://www.tohoku.ac.jp/en/), Japan, and a passionate developer working on Self Evolving AI-based robotic systems.
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me:
+- [GitHub](https://github.com/drashutoshspace)
+- [LinkedIn](https://www.linkedin.com/in/drashutoshspace/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills:
+- **Languages**: Python, C, C++, Java, JavaScript
+- **Frameworks**: TensorFlow, Keras, ROS, Flask, Django
+- **Tools**: AWS, Docker, Git, Linux
+
+### 🏆 Awards:
+- MEXT Research Scholar (2023 – Present)
+- Finalist, National Innovation Contest (2020)
