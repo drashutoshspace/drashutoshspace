@@ -3,7 +3,7 @@
 ### 🚀 About Me:
 I'm a Doctoral Researcher in Space Robotics at [Tohoku University](https://www.tohoku.ac.jp/en/), Japan, and a passionate developer working on Self Evolving AI-based robotic systems.
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drashutoshspace&show_icons=true&theme=radical)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=drashutoshspace&show_icons=true&theme=radical&hide_rank=true)
 
 
 ### 📫 How to Reach Me:
