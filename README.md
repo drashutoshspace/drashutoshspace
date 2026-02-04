@@ -10,11 +10,8 @@ I am also a passionate full-stack developer and embedded systems engineer, with 
 
 ### 🌐 Find Me Here
 
-- 🌍 [Website](https://www.drashutosh.space/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/drashutoshspace/)
-- <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/0d81fb3c-49d2-483e-ac6e-07cff7591612" />
- [Google Scholar](https://scholar.google.com/citations?user=KwFxQqIAAAAJ&hl=en)
-- 📬 iashutosh9119@gmail.com
+- [🎓 Google Scholar](https://scholar.google.com/citations?user=KwFxQqIAAAAJ&hl=en)
 
 ---
 
